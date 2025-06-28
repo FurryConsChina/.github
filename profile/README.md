@@ -1,8 +1,9 @@
-### Where is this?
-This is FurryconsChina organization!
+# <div align="center">FurryConsChina</div>
 
 ### Sponsors
-[Jetbrains](https://www.jetbrains.com/community/opensource/)
+
+#### Infra Support
+[kemono.games](https://kemono.games/)
 
 ### Insights
 
